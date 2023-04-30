@@ -18,7 +18,7 @@ def quit(wb, window):
 def run_tkinter(wb):
     # Tkinter settings
     window = Tk()
-    window.title("Калькулятор износа машин")
+    window.title("Калькулятор")
     window.geometry('500x300')
 
     # Tabs
